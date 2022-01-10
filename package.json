@@ -1,0 +1,22 @@
+{
+  "name": "furne-store-backend",
+  "version": "0.0.1",
+  "description": "furne-store-backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lmas3009 - Aravind Kumar Vemula",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "path": "^0.12.7"
+  }
+}
